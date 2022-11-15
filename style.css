@@ -1,0 +1,17 @@
+body {
+  background-color: gray;
+}
+
+#nameOutput {
+  color: black;
+}
+
+#computerWeaponOutput,
+#computerScoreOutput {
+  color: pink;
+}
+
+#playerScoreOutput,
+#playerWeaponOutput {
+  color: black;
+}
